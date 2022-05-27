@@ -28,5 +28,11 @@
 <a href="https://www.linkedin.com/in/mohamad-sheikho-b8823b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badr sebaa" height="30" width="40" /></a>
 </p>
 
+</br>
+<h3 align="left">Check my Portfolio:</h3>
+<p align="left">
+<a href="https://mohamad-sheikho.students-laplateforme.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Twemoji12_2764.svg/2048px-Twemoji12_2764.svg.png" alt="badr sebaa" height="30" width="40" /></a>
+</p>
+
 
 
