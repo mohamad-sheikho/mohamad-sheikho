@@ -15,7 +15,7 @@
 
 <img  align="left" alt ="photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 <img  align="left" alt ="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
+</p>
 </br>
 
 <h3 align="left">Connect with me:</h3>
