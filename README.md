@@ -31,7 +31,7 @@
 </br>
 <h3 align="left">Check my Portfolio:</h3>
 <p align="left">
-<a href="https://mohamad-sheikho.students-laplateforme.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Twemoji12_2764.svg/2048px-Twemoji12_2764.svg.png" alt="badr sebaa" height="50" width="50" /></a>
+<a href="https://mohamad-sheikho.students-laplateforme.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Twemoji12_2764.svg/2048px-Twemoji12_2764.svg.png" alt="badr sebaa" height="50" width="55" /></a>
 </p>
 
 
